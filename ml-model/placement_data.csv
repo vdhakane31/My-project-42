@@ -1,0 +1,6 @@
+Skills,Aptitude Score,Communication Skills,Internship,Placement Status,skill_match_ratio
+"React,Node.js,SQL",82,8,Yes,Selected,0.8
+"C++,DBMS",65,6,No,Not Selected,0.4
+"Java,Spring,Communication",78,7,Yes,Selected,0.7
+"Python,ML",72,6,No,Not Selected,0.5
+"React,Node.js,MongoDB",88,9,Yes,Selected,0.9
